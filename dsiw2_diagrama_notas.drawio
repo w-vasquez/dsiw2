@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T16:19:46.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.61" etag="C_zOSWkybpvirI1DgyW4" version="13.6.3" type="onedrive"><diagram id="Z3SUOvgA0qH0jcRV_NoC" name="Page-1">5Vpdc5s4FP01ntl9yAzf4EfHadyZNrOZuDvbt44MCigRyCvkOO6v3ysQxiCcj61tXOKHRLoSQpxz79WRYGRP0+cZR8vkhkWYjiwjeh7ZVyPLMt3Ah3/Ssiktrj0uDTEnkepUG+bkJ1ZGQ1lXJMJ5o6NgjAqybBpDlmU4FA0b4pytm93uGW3edYlirBnmIaK69R8SiaS0Bq5R2z9jEifVnU1DtaSo6qwMeYIitt4x2Z9G9pQzJspS+jzFVIJX4VJed72ndTsxjjPxlguc7+hmcX139f0hCX3i/HX3kywurHKUJ0RX6oH/zleIE5arSYtNhQRnqyzCcjBjZF+uEyLwfIlC2boG7sGWiJRCzYTiPaF0yijjxbV2FBiGb4M9F5w94p2WiWsYjhzwnmVix35f/JR9rmbR8czK9IS5wM87JoXBDLMUC76BLqrVDRQfyiFNR9XXNb1m5X3JDrVVP6Q8Kt4OXYMOBYV7NweLgH5ZXzzOvkTBzebh7vLr08K6sFyNhDtG8TkzoMHdQcqbGeidAFsn4BbznGXow3Bg2X2T4OipSAM/BvSXe59eLQFoUXU33ouK77Q809VAsTowMY+Gia1hErLoB2dUgwbAEE3nazpZxjLc8khlQpTEGVRDAAmD/VJCS2AFnKiGlESRvE2ntzfj4QCe6fuvZgengwPrWBxUgfKSX+IINIOqKlSbuOSPWISJqjAuEhZDdqFfGVsqth6wEBslf9BKsBaXlXaQ1+MsmkhlU98MLNdEPtZVlUPUSGZNipzjy5TAI7EVD/FLDumUHQXiMRavrmk6yRxTJMhTcyaHjxvnDZxRChpyn1vvjaM3Jetm2r8ufgeKjlaG8vToOG2G8jSkM5Z+rAzl6qvESTOU42scXLECq+HKl3GTArt/+RJoJEzoKs3OeiP1a2FgtyRk0DsHYz0QCAdJyPhwQ8FpZSNr3DcNvk7DK+D/D0XUFjkNhfUuuXRAeeRav4U8qqZ5HvJoG0tHkEd9b+A8U0NabuBW5RnbgCWS1+TBdPWk5J1SI3nDdXm7DXXfPq8fWvQI9UE3X22o/Z53X56+zx3+7quV4k1P9/fgpKlFPz2+QYAUGe7psdUKBNvsW3N6+jnELVDAogHvv86OA30LXAdCIW1DAho/KqpIDodGU3t0aYIQMv5YKrr+hEqE4c8ChQmAjzkSrHhM+YoYdP1wU5vdTm1GB6X+KXObr8umSc0ZzkNGER8uIabhNgjpOuI46VGfry/4cxzKsBruAceF9rq470Tn6yv+TGamwVLQXu+3Dt4fBfp6LxcQ4OAHClGEUxKeKx37XtD9WqZympnK6f2jCl9/K/GNLIGfeNCh0j6N7V2V+boqu+UkRSDLRpZH5UK9gCXci2UJFhNgobtthjPQYlRv+IbDDMJNb/g4wqDrfKtLGByN5UA/aOQ4JgCv1GcGLTR3ulXj0x3xnVeCG+eo7iRvmAIggkSo7J/XQmNaaXEoeyiVEGeLXP6TGJVfgJZvIKH07woXMyhmVw97rrLxCMl5+4b4peQ87nAX9/3uAtX6k9KibefDXPvTfw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-20T16:48:39.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.61" etag="AS4ZRrRaYzb4fGBRSfCx" version="13.6.3" type="github">
+  <diagram id="Z3SUOvgA0qH0jcRV_NoC" name="Page-1">
+    <mxGraphModel dx="1587" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4XaMbFRDXjhc7i4ORzib-2" value="Usuarios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="580" y="140" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-25" value="Roles" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="580" y="40" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-35" value="Personas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="580" y="230" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-42" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="740" y="45" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-43" value="cod_rol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="770" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-80" value="" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=none;endFill=0;fontSize=10;" parent="1" source="b8lKw-kGKd8MyjRBLvb2-44" target="b8lKw-kGKd8MyjRBLvb2-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-44" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#A50040;fontColor=#ffffff;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="740" y="60" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-46" value="nom_rol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="770" y="55" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-47" value="Docentes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="590" y="330" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-48" value="Alumnos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="730" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-49" value="Directores" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="470" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-79" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;sketch=0;shadow=0;endArrow=none;endFill=0;" parent="1" source="b8lKw-kGKd8MyjRBLvb2-52" target="b8lKw-kGKd8MyjRBLvb2-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-52" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#A50040;fontColor=#ffffff;fillColor=#d80073;" parent="1" vertex="1">
+          <mxGeometry x="740" y="45" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-61" value="cod_usuario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="760" y="150" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-62" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#A50040;fontColor=#ffffff;fillColor=#d80073;" parent="1" vertex="1">
+          <mxGeometry x="730" y="155" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-63" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#A50040;fontColor=#ffffff;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="730" y="170" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-64" value="nom_rol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="740" y="165" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-65" value="Materias" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="230" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-66" value="Periodos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="70" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-68" value="Materias relacionadas al año (periodos) de bachillerato y grado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="100" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-72" value="Año escolar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="105" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-74" value="Secciones" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-80" y="400" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-75" value="Grados" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="230" y="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-76" value="periodos_academicos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="145" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-77" value="Tipos_grados" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="70" y="210" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-78" value="Primaria&lt;br&gt;Secundaria&lt;br&gt;General&lt;br&gt;Tecnico&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="105" y="150" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8lKw-kGKd8MyjRBLvb2-81" value="registrar las materias, años de esa materia impartida, secciones, grados&amp;nbsp;y el docente que la va impartir" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="255" y="440" width="190" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
