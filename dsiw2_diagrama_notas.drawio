@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T16:48:39.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.61" etag="AS4ZRrRaYzb4fGBRSfCx" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T17:09:04.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.61" etag="BmMajG5VB--GzDKmcVll" version="13.6.3" type="github">
   <diagram id="Z3SUOvgA0qH0jcRV_NoC" name="Page-1">
     <mxGraphModel dx="1587" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,8 +55,14 @@
         <mxCell id="b8lKw-kGKd8MyjRBLvb2-64" value="nom_rol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="740" y="165" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="NR2YaWxbIULWB_psVSaY-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b8lKw-kGKd8MyjRBLvb2-65" target="NR2YaWxbIULWB_psVSaY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b8lKw-kGKd8MyjRBLvb2-65" value="Materias" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="230" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NR2YaWxbIULWB_psVSaY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b8lKw-kGKd8MyjRBLvb2-66" target="NR2YaWxbIULWB_psVSaY-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8lKw-kGKd8MyjRBLvb2-66" value="Periodos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="70" y="310" width="110" height="40" as="geometry" />
@@ -70,11 +76,20 @@
         <mxCell id="b8lKw-kGKd8MyjRBLvb2-74" value="Secciones" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-80" y="400" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NR2YaWxbIULWB_psVSaY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b8lKw-kGKd8MyjRBLvb2-75" target="b8lKw-kGKd8MyjRBLvb2-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b8lKw-kGKd8MyjRBLvb2-75" value="Grados" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="230" y="220" width="110" height="40" as="geometry" />
+          <mxGeometry x="-80" y="280" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b8lKw-kGKd8MyjRBLvb2-76" value="periodos_academicos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="145" y="440" width="110" height="40" as="geometry" />
+          <mxGeometry x="210" y="520" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NR2YaWxbIULWB_psVSaY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b8lKw-kGKd8MyjRBLvb2-77" target="b8lKw-kGKd8MyjRBLvb2-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NR2YaWxbIULWB_psVSaY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b8lKw-kGKd8MyjRBLvb2-77" target="b8lKw-kGKd8MyjRBLvb2-75">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b8lKw-kGKd8MyjRBLvb2-77" value="Tipos_grados" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="70" y="210" width="110" height="40" as="geometry" />
@@ -83,7 +98,22 @@
           <mxGeometry x="105" y="150" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b8lKw-kGKd8MyjRBLvb2-81" value="registrar las materias, años de esa materia impartida, secciones, grados&amp;nbsp;y el docente que la va impartir" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="255" y="440" width="190" height="50" as="geometry" />
+          <mxGeometry x="320" y="520" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NR2YaWxbIULWB_psVSaY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NR2YaWxbIULWB_psVSaY-3" target="b8lKw-kGKd8MyjRBLvb2-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NR2YaWxbIULWB_psVSaY-3" value="Horarios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NR2YaWxbIULWB_psVSaY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NR2YaWxbIULWB_psVSaY-4" target="NR2YaWxbIULWB_psVSaY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NR2YaWxbIULWB_psVSaY-4" value="Tipo_horarios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="315" y="400" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NR2YaWxbIULWB_psVSaY-5" value="Matutino&lt;br&gt;Vespertino&lt;br&gt;Nocturno" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="410" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
