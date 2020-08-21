@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-21T18:12:15.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.61" etag="mlHhBaaNBhZOYsslJxzc" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-21T21:41:20.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.61" etag="M5ZKywlXwq69wcwaxxaL" version="13.6.3" type="github">
   <diagram id="Z3SUOvgA0qH0jcRV_NoC" name="General">
-    <mxGraphModel dx="2260" dy="2053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1696" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="Diseño Base" style="" parent="0" />
